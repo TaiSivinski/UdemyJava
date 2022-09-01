@@ -6,8 +6,9 @@ public class Main {
 
         int x = 10;
         int y = 30;
+        int total = x + y;
 
-        System.out.println("Resultado é " + x + y);
+        System.out.println("O resultado final é: " + total);
 
 
     }
